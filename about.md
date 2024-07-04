@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Christopher. This is my about me page.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am also called Robert in some circles.
+My best friends are Russell, Muzio and Colin.
 
 ### Contact me
 
